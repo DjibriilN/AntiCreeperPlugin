@@ -1,0 +1,4 @@
+name: AntiCreeper
+version: '${project.version}'
+main: djibril.anticreeper.AntiCreeper
+api-version: 1.15
